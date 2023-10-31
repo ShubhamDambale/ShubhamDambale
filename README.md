@@ -1,11 +1,11 @@
-<!-- Intro Image -->
+<!-- Banner Image -->
 <p align="center">
   <img src="https://promwad.com/sites/default/files/promwad_com_backend_development_banner_1920.jpg" alt="Banner Image">
 </p>
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Shubham Dambale</h1>
-<h3 align="center">A Passionate Backend Developer from India</h3>
+<h1 align="center">Hi there, I'm Shubham Dambale 👋</h1>
+<h3 align="center">Passionate Backend Developer | India 🚀</h3>
 
 <!-- Animated Image -->
 <p align="right">
@@ -14,18 +14,18 @@
 
 <!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubhamdambale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=shubhamdambale&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
-<!-- Summary -->
-- 🌱 I’m currently learning **Backend Development**
-- 👨‍💻 All of my projects are available at [shubhamdambale.github.io](https://shubhamdambale.github.io/)
-- 📝 I regularly write articles on [Medium](https://medium.com/shubhamdambale)
-- 💬 Ask me about **Data Structures & Algorithms, Java, Spring, Basic MySQL**
-- 📫 How to reach me: shubhamdambale123@gmail.com
+<!-- About Me -->
+- 🌱 Currently exploring **Backend Development**
+- 👨‍💻 Find my projects at [shubhamdambale.github.io](https://shubhamdambale.github.io/)
+- 📝 Writing tech articles on [Medium](https://medium.com/shubhamdambale)
+- 💬 I can help with **Data Structures & Algorithms, Java, Spring, Basic MySQL**
+- 📫 Reach me at: shubhamdambale123@gmail.com
 
-<!-- Social Links -->
-<h3 align="left">Connect with me:</h3>
+<!-- Connect with Me -->
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/shubham-dambale-115582202/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
@@ -41,7 +41,6 @@
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Update with your own icons and links -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40">
   </a>
