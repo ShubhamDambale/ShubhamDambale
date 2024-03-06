@@ -31,5 +31,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamdambale&" alt="shubhamdambale" /></p>
 
-I am a passionate Backend developer from India with 6 months of internship experience. My journey in software development has been fueled by a strong motivation to create efficient and user-friendly solutions. During my internship, I spearheaded the development and implementation of an Automated Learning Management System (LMS), significantly enhancing efficiency and user satisfaction. I showcased my proficiency in Java and JavaScript by utilizing various coding methodologies to create a user-friendly Full Stack project. Leveraging backend technologies like Node.js, Spring Boot, and Flask, I successfully drove the success of the project. I was recognized for my contributions to the successful development and implementation of the Automated LMS platform, resulting in improved efficiency and user satisfaction. My dedication to backend development, coupled with my motivation to continuously learn and improve, makes me a valuable asset to any team.
+<p align="justify">I am a passionate Backend developer from India with 6 months of internship experience. My journey in software development has been fueled by a strong motivation to create efficient and user-friendly solutions. During my internship, I spearheaded the development and implementation of an Automated Learning Management System (LMS), significantly enhancing efficiency and user satisfaction.</p>
+
+<p align="justify">I showcased my proficiency in Java and JavaScript by utilizing various coding methodologies to create a user-friendly Full Stack project. Leveraging backend technologies like Node.js, Spring Boot, and Flask, I successfully drove the success of the project. I was recognized for my contributions to the successful development and implementation of the Automated LMS platform, resulting in improved efficiency and user satisfaction.</p>
+
+<p align="justify">My dedication to backend development, coupled with my motivation to continuously learn and improve, makes me a valuable asset to any team.</p>
+
+---
 
